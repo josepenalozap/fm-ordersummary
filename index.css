@@ -101,6 +101,7 @@ button {
     margin-bottom: 1.5em;
     box-shadow: 0 10px 10px 0 hsla(245, 75%, 52%, 0.26);
     transition: background-color 250ms;
+    font-size: 1rem;
 }
 
 .change-plan:hover,
